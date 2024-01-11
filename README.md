@@ -2,7 +2,7 @@
 Resources, links, and maps for Nanyang Technological University (NTU) international exchange students to traverse the webs of bureaucracy and enjoy your time at NTU.
 
 --- 
-## NTU Resources 🏫
+## NTU Links 🏫
 
 ### [NTU Exchanges Students' WhatsApp Group](https://chat.whatsapp.com/CpCrG6GiQdl2YCxojw3n6D)
 Join the community for meetups, Q&A, and support from fellow exchange students.
@@ -26,7 +26,7 @@ Platform for course registration.
 Change your network account password here.
 
 ---
-## Singapore Resources 🇸🇬
+## Singapore Links 🇸🇬
 
 ### [ICA - Student Pass (STP)](https://eservices.ica.gov.sg/solar/index.xhtml)
 Information and application for the Singapore Student Pass.
