@@ -6,28 +6,33 @@ Resources, links, and maps for Nanyang Technological University (NTU) internatio
 
 ### [NTU Exchanges Students' WhatsApp Group](https://chat.whatsapp.com/CpCrG6GiQdl2YCxojw3n6D)
 > https://chat.whatsapp.com/CpCrG6GiQdl2YCxojw3n6D
+
 Join the community for meetups, Q&A, and support from fellow exchange students.
 
 ### [NTU Email](https://outlook.office.com/)
 > https://outlook.office.com/
+
 Access your NTU Outlook email account.
 - **Username:** NTU exchange student's email
 - **Password:** NTU exchange student's email password
 
 ### [GEM Exchange/Study Abroad Portal](https://venus2.wis.ntu.edu.sg/GEMT/Student/StudentLogin.aspx)
 > https://venus2.wis.ntu.edu.sg/GEMT/Student/StudentLogin.aspx
+
 Portal for course registration, housing registration, and letter of enrollment.
 - **Username:** Matric Number
 - **Password:** Exchange Portal password
 
 ### [STARS](https://sso.wis.ntu.edu.sg/webexe88/owa/sso_login1.asp?t=1&p2=https://wish.wis.ntu.edu.sg/pls/webexe/aus_stars_planner.main)
 > https://sso.wis.ntu.edu.sg/webexe88/owa/sso_login1.asp?t=1&p2=https://wish.wis.ntu.edu.sg/pls/webexe/aus_stars_planner.main
+
 Platform for course registration.
 - **Username:** Matric Number
 - **Password:** Network account password
 
 ### [NTU Network Account Password Changer](https://pwd.ntu.edu.sg)
 > https://pwd.ntu.edu.sg
+
 Change your network account password here.
 
 ---
