@@ -30,10 +30,16 @@ Platform for course registration.
 - **Username:** Matric Number
 - **Password:** Network account password
 
+### [NTU Learn](https://ntulearn.ntu.edu.sg/ultra/institution-page)
+> https://ntulearn.ntu.edu.sg/ultra/institution-page
+
+Course syllabus and etc.
+
 ### [NTU Network Account Password Changer](https://pwd.ntu.edu.sg)
 > https://pwd.ntu.edu.sg
 
 Change your network account password here.
+
 
 ---
 ## Singapore Links 🇸🇬
