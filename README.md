@@ -40,6 +40,11 @@ Course syllabus and etc.
 
 Change your network account password here.
 
+### [NTU Student Hub Telegram](https://t.me/NTUstudenthub)
+> https://t.me/NTUstudenthub
+
+Marketplaces and index swapping for STARS can be found here.
+
 
 ---
 ## Singapore Links 🇸🇬
