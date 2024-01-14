@@ -3,12 +3,6 @@ Resources, links, and maps for Nanyang Technological University (NTU) internatio
 
 --- 
 ## NTU Links 🏫
-
-### [NTU Exchanges Students' WhatsApp Group](https://chat.whatsapp.com/CpCrG6GiQdl2YCxojw3n6D)
-> https://chat.whatsapp.com/CpCrG6GiQdl2YCxojw3n6D
-
-Join the community for meetups, Q&A, and support from fellow exchange students.
-
 ### [NTU Email](https://outlook.office.com/)
 > https://outlook.office.com/
 
@@ -40,18 +34,32 @@ Course syllabus, etc.
 
 Change your network account password here.
 
+## NTU Groups
+### [NTU Exchanges Students' WhatsApp Group](https://chat.whatsapp.com/CpCrG6GiQdl2YCxojw3n6D)
+> https://chat.whatsapp.com/CpCrG6GiQdl2YCxojw3n6D
+
+Join the community for meetups, Q&A, and support from fellow exchange students.
+
 ### [NTU Student Hub Telegram](https://t.me/NTUstudenthub)
 > https://t.me/NTUstudenthub
 
 Marketplaces and index swapping for STARS can be found here.
 
 ---
-### NTU Bus App🚌
+### NTU Transportation and Communication 🚌
 
-Buses free of charge
+### [NTU Omnibus App](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
+[Google Play store (Android)](https://play.google.com/store/apps/details?id=pw.adithya.ntubusnow&pcampaignid=)
+[App store](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
 
-#### [Google Play store (Android)](https://play.google.com/store/apps/details?id=pw.adithya.ntubusnow&pcampaignid=)
-#### [App store](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
+Free buses.
+
+### SIM Card 
+
+Sim card providers in Singapore:
+### [Singtel - the biggest one (100G B/ $15)](https://www.simba.sg/personal)
+### [SIMBA - the cheapest one (100 GB / $10)](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-sim-cards) recommended
+### [StarHub - the biggest network after Singtel (125 GB / $25)](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards.html)
 
 ---
 ## Singapore Links 🇸🇬
@@ -65,13 +73,6 @@ Buses free of charge
 
 Information and application for the Singapore Student Pass.
 
-## SIM Card 
-
-Sim card providers in Singapore:
-### [Singtel - the biggest one (100G B/ $15)](https://www.simba.sg/personal)
-### [SIMBA - the cheapest one (100 GB / $10)](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-sim-cards) recommended
-### [StarHub - the biggest network after Singtel (125 GB / $25)](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards.html)
-
 --- 
 ## Checklists 📋
 
@@ -80,6 +81,11 @@ Sim card providers in Singapore:
 
 ## Contribute 🫂
 We welcome contributions from the NTU exchange community. If you have resources, tips, or information to share, please feel free to add them here.
+
+Contributors:
+@Ignisko
+@jingxiangmo
+@LinuzJ
 
 If you're not familiar with GitHub or prefer a more direct approach:
 - **Email**: Send your suggestions or resources to [jingxiangmo@gmail.com](mailto:jingxiangmo@gmail.com). Please use a clear subject line like "NTU Exchange Resource Contribution".
