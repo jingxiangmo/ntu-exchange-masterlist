@@ -77,7 +77,9 @@ Information and application for the Singapore Student Pass.
 ## Checklists 📋
 
 ### Singapore Entry Requirements
-
+- IPA Letter printed
+- Letter of Enrollment (LoE) printed
+- Passport
 
 ## Contribute 🫂
 We welcome contributions from the NTU exchange community. If you have resources, tips, or information to share, please feel free to add them here.
