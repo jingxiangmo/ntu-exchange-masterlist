@@ -1,5 +1,5 @@
 # NTU Exchange Resources 
-Resources, links, and maps for Nanyang Technological University (NTU) international exchange students to traverse the webs of bureaucracy and enjoy the time at NTU.
+Resources, links, and maps for Nanyang Technological University (NTU) international exchange students to traverse the webs of bureaucracy and enjoy your time at NTU.
 
 --- 
 ## NTU Links 🏫
