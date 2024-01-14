@@ -46,20 +46,25 @@ Join the community for meetups, Q&A, and support from fellow exchange students.
 Marketplaces and index swapping for STARS can be found here.
 
 ---
-### NTU Transportation and Communication 🚌
+## NTU Transportation and Communication 🚌
 
 ### [NTU Omnibus App](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
-[Google Play store (Android)](https://play.google.com/store/apps/details?id=pw.adithya.ntubusnow&pcampaignid=)
-[App store](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
+
+> [Google Play store (Android)](https://play.google.com/store/apps/details?id=pw.adithya.ntubusnow&pcampaignid=)
+
+> [App store](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
 
 Free buses.
 
 ### SIM Card 
 
 Sim card providers in Singapore:
-### [Singtel - the biggest one (100G B/ $15)](https://www.simba.sg/personal)
-### [SIMBA - the cheapest one (100 GB / $10)](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-sim-cards) recommended
-### [StarHub - the biggest network after Singtel (125 GB / $25)](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards.html)
+
+> [Singtel - the biggest one (100G B/ $15)](https://www.simba.sg/personal)
+
+> [SIMBA - the cheapest one (100 GB / $10)](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-sim-cards) recommended
+
+> [StarHub - the biggest network after Singtel (125 GB / $25)](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards.html)
 
 ---
 ## Singapore Links 🇸🇬
