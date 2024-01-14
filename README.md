@@ -1,5 +1,5 @@
-# NTU Exchange Resources
-Resources, links, and maps for Nanyang Technological University (NTU) international exchange students to traverse the webs of bureaucracy and enjoy your time at NTU.
+# NTU Exchange Resources 
+Resources, links, and maps for Nanyang Technological University (NTU) international exchange students to traverse the webs of bureaucracy and enjoy the time at NTU.
 
 --- 
 ## NTU Links 🏫
@@ -33,7 +33,7 @@ Platform for course registration.
 ### [NTU Learn](https://ntulearn.ntu.edu.sg/ultra/institution-page)
 > https://ntulearn.ntu.edu.sg/ultra/institution-page
 
-Course syllabus and etc.
+Course syllabus, etc.
 
 ### [NTU Network Account Password Changer](https://pwd.ntu.edu.sg)
 > https://pwd.ntu.edu.sg
@@ -45,14 +45,32 @@ Change your network account password here.
 
 Marketplaces and index swapping for STARS can be found here.
 
+---
+### NTU Bus App🚌
+
+Buses free of charge
+
+#### [Google Play store (Android)](https://play.google.com/store/apps/details?id=pw.adithya.ntubusnow&pcampaignid=)
+#### [App store](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
 
 ---
 ## Singapore Links 🇸🇬
+
+### [Arrival card](https://eservices.ica.gov.sg/sgarrivalcard/)
+> https://eservices.ica.gov.sg/sgarrivalcard/
+
 
 ### [ICA - Student Pass (STP)](https://eservices.ica.gov.sg/solar/index.xhtml)
 > https://eservices.ica.gov.sg/solar/index.xhtml
 
 Information and application for the Singapore Student Pass.
+
+## SIM Card 
+
+Sim card providers in Singapore:
+### [Singtel - the biggest one (100G B/ $15)](https://www.simba.sg/personal)
+### [SIMBA - the cheapest one (100 GB / $10)](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-sim-cards) recommended
+### [StarHub - the biggest network after Singtel (125 GB / $25)](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards.html)
 
 --- 
 ## Checklists 📋
