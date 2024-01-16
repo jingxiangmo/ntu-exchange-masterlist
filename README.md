@@ -17,8 +17,7 @@ Portal for course registration, housing registration, and letter of enrollment.
 - **Username:** Matric Number
 - **Password:** Exchange Portal password
 
-### [STARS](https://sso.wis.ntu.edu.sg/webexe88/owa/sso_login1.asp?t=1&p2=https://wish.wis.ntu.edu.sg/pls/webexe/aus_stars_planner.main)
-> https://sso.wis.ntu.edu.sg/webexe88/owa/sso_login1.asp?t=1&p2=https://wish.wis.ntu.edu.sg/pls/webexe/aus_stars_planner.main
+### STARS
 
 Platform for course registration.
 - **Username:** Matric Number
