@@ -46,7 +46,7 @@ Before the STP completion of formalities, you will need to verify your COVID-19 
 
 Make sure to bring your passport and vaccination records!
 
-### 3. STP Completion of Formalities
+### 7. STP Completion of Formalities
 
 NTU will (possibly) organize your STP Completion of Formalities. You will need to bring:
 - [ ] PRINT In-Principle Approval (IPA) letter
