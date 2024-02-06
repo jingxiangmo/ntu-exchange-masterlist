@@ -1,85 +1,108 @@
-## NTU Links 🏫
-### [NTU Email](https://outlook.office.com/)
-> https://outlook.office.com/
+# Quick Links
+[NTU Email](https://outlook.office.com/)
 
-Access your NTU Outlook email account.
+[GEM Exchange/Study Abroad Portal](https://venus2.wis.ntu.edu.sg/GEMT/Student/StudentLogin.aspx)
+
+[STARS](https://venus2.wis.ntu.edu.sg/GEMT/Student/StudentLogin.aspx)
+
+[NTU Learn](https://ntulearn.ntu.edu.sg/ultra/institution-page)
+
+[NTU Network Account Password Changer](https://pwd.ntu.edu.sg)
+
+
+# Pre-arrival 
+
+### 1. Student Pass (STP) Application
+You need to apply for a STP at least one month before the start of the semester. You have to submit the applciation on the Immigration & Checkpoints Authority
+(ICA) [SOLAR](https://eservices.ica.gov.sg/solar/index.xhtml) website.
+
+### 2. Vaccination Requirements
+Verify that you have the correct number and brand of vaccine doses. You will need to bring your vaccination record once in Singapore.
+
+You can find the number of doese required [here](https://www.moh.gov.sg/covid-19/vaccination/faqs-on-overseas-vaccination-records-travel#overseasvax).
+
+
+### 3. Travel and Pre-flight Checklist
+- [ ] PRINT In-Principle Approval (IPA) letter
+- [ ] PRINT Letter of Enrolment (LOE)
+- [ ] COVID-19 vaccination certification
+- [ ] SG Arrival Card
+- [ ] Personal travel insurance
+- [ ] Passport
+
+### 4. Join the NTU Exchange Students' Community
+Join the WhatsApp group [here](https://chat.whatsapp.com/CpCrG6GiQdl2YCxojw3n6D) for meetups, Q&A, and support from fellow exchange students. Feel free to ask questions, people are generally very helpful.
+
+# Arrival
+
+
+### 3. STP Completion of Formatlities
+You will need the:
+
+
+
+# Courses Registration
+
+
+# Setup for Success
+
+
+
+
+
+
+
+
+# Essential NTU Accounts
+### NTU Email 📧
+Access your NTU Outlook email account [here](https://outlook.office.com/).
 - **Username:** NTU exchange student's email
 - **Password:** NTU exchange student's email password
 
-### [GEM Exchange/Study Abroad Portal](https://venus2.wis.ntu.edu.sg/GEMT/Student/StudentLogin.aspx)
-> https://venus2.wis.ntu.edu.sg/GEMT/Student/StudentLogin.aspx
-
-Portal for course registration, housing registration, and letter of enrollment.
+### GEM Exchange/Study Abroad Portal 🌍
+Portal for course registration, housing registration, and letter of enrollment. Access the portal [here](https://venus2.wis.ntu.edu.sg/GEMT/Student/StudentLogin.aspx).
 - **Username:** Matric Number
 - **Password:** Exchange Portal password
 
 ### STARS
-
 Platform for course registration.
 - **Username:** Matric Number
 - **Password:** Network account password
 
-### [NTU Learn](https://ntulearn.ntu.edu.sg/ultra/institution-page)
-> https://ntulearn.ntu.edu.sg/ultra/institution-page
+### NTU Learn
+Course syllabus and more available on [NTU Learn](https://ntulearn.ntu.edu.sg/ultra/institution-page).
 
-Course syllabus, etc.
-
-### [NTU Network Account Password Changer](https://pwd.ntu.edu.sg)
-> https://pwd.ntu.edu.sg
-
-Change your network account password here.
+### NTU Network Account Password Changer 🔑
+Change your network account password [here](https://pwd.ntu.edu.sg).
 
 ## NTU Groups
-### [NTU Exchanges Students' WhatsApp Group](https://chat.whatsapp.com/CpCrG6GiQdl2YCxojw3n6D)
-> https://chat.whatsapp.com/CpCrG6GiQdl2YCxojw3n6D
 
-Join the community for meetups, Q&A, and support from fellow exchange students.
 
-### [NTU Student Hub Telegram](https://t.me/NTUstudenthub)
-> https://t.me/NTUstudenthub
-
-Marketplaces and index swapping for STARS can be found here.
 
 ---
 ## NTU Transportation and Communication 🚌
 
-### [NTU Omnibus App](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
+### NTU Omnibus App 📲
+Download the app for free buses:
+- [Google Play Store (Android)](https://play.google.com/store/apps/details?id=pw.adithya.ntubusnow&pcampaignid=)
+- [App Store (iOS)](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
 
-> [Google Play store (Android)](https://play.google.com/store/apps/details?id=pw.adithya.ntubusnow&pcampaignid=)
-
-> [App store](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
-
-Free buses.
-
-### SIM Card 
-
+### SIM Card 📞
 Sim card providers in Singapore:
-
-> [Singtel - the biggest one (100G B/ $15)](https://www.simba.sg/personal)
-
-> [SIMBA - the cheapest one (100 GB / $10)](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-sim-cards) recommended
-
-> [StarHub - the biggest network after Singtel (125 GB / $25)](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards.html)
+- [Singtel - the biggest one](https://www.simba.sg/personal) (100G B/ $15)
+- **[SIMBA - the cheapest one](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-sim-cards)** (100 GB / $10) recommended
+- [StarHub - the biggest network after Singtel](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards.html) (125 GB / $25)
 
 ---
 ## Singapore Links 🇸🇬
 
-### [Arrival card](https://eservices.ica.gov.sg/sgarrivalcard/)
-> https://eservices.ica.gov.sg/sgarrivalcard/
+### Arrival card ✈️
+Complete your [arrival card online](https://eservices.ica.gov.sg/sgarrivalcard/).
+
+### ICA - Student Pass (STP) 🎓
+Information and application for the Singapore Student Pass available [here](https://eservices.ica.gov.sg/solar/index.xhtml).
 
 
-### [ICA - Student Pass (STP)](https://eservices.ica.gov.sg/solar/index.xhtml)
-> https://eservices.ica.gov.sg/solar/index.xhtml
-
-Information and application for the Singapore Student Pass.
-
---- 
-## Checklists 📋
-
-### Singapore Entry Requirements
-- IPA Letter printed
-- Letter of Enrollment (LoE) printed
-- Passport
 
 ## Contribute 🫂
 We welcome contributions from the NTU exchange community. If you have resources, tips, or information to share, please feel free to add them here.
