@@ -1,6 +1,5 @@
 Resources, links, and maps for Nanyang Technological University (NTU) international exchange students to traverse the webs of bureaucracy and enjoy your time at NTU.
 
---- 
 ## NTU Links 🏫
 ### [NTU Email](https://outlook.office.com/)
 > https://outlook.office.com/
