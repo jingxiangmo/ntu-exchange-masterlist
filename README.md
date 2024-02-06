@@ -86,7 +86,6 @@ Google maps navigation doens't really work on campus. NTU has a bus map app:
 - [Google Play Store (Android)](https://play.google.com/store/apps/details?id=pw.adithya.ntubusnow&pcampaignid=)
 - [App Store (iOS)](https://apps.apple.com/us/app/ntu-omnibus/id1636457987)
 
---
 
 ## Contribute 🫂
 We welcome contributions from the NTU exchange community. If you have resources, tips, or information to share, please feel free to add them here.
