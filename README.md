@@ -90,6 +90,7 @@ Google maps navigation doens't really work on campus. NTU has a bus map app:
 ## Contribute 🫂
 We welcome contributions from the NTU exchange community. If you have resources, tips, or information to share, please feel free to add them here.
 
+Link to the repo: https://github.com/jingxiangmo/ntu-exchange-masterlist
 
 If you're not familiar with GitHub or prefer a more direct approach:
 - **Email**: Send your suggestions or resources to [jingxiangmo@gmail.com](mailto:jingxiangmo@gmail.com). Please use a clear subject line like "NTU Exchange Resource Contribution".
